@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<head>
-    <title COVID-19, bitches panic></title>
+
 </head>
 <body>
 <h1>
