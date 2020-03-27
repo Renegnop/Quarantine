@@ -1,5 +1,4 @@
 
-</head>
 <body>
 <h1>
 Unfolding of the Corona disaster among the 8 Bitches</h1>
